@@ -7,11 +7,13 @@ public class DeneUi {
 		System.out.println("Merhaba!!!");
 		
 		int i;
+		String name = "Onur KIRKLAROĞLU";
 		
 		for(i=0; i<10; i++)  {
 			i++;
 		}
 		System.out.println("Toplam Sayı : " + i);
+		System.out.println("Merhaba, " + name);
 	}
 
 }
