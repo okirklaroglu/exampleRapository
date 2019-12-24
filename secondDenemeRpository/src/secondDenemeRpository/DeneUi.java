@@ -14,6 +14,8 @@ public class DeneUi {
 		}
 		System.out.println("Toplam Sayı : " + i);
 		System.out.println("Merhaba, " + name);
+
+		// Oldu mu?
 	}
 
 }
